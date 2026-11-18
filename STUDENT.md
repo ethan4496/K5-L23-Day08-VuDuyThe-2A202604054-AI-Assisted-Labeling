@@ -16,4 +16,4 @@
 - Bắt bẫy: 11/12 = 91.7% (lọt: extra ở img_034)
 - Thời gian: gán tay 15/4 = 3.75 phút/ảnh; duyệt có pre-label 40/24 = 1.67 phút/ảnh
 - Lỗi QC (vòng 1, trước khi sửa): 62.5% theo ảnh (5/8), 2.6% theo đối tượng (5/190); đã sửa đủ 5 lỗi trong `qc_fixed.json`
-- **Quyết định:** <<Release / Hold / Rework>> — lý do một dòng: <<...>>
+- **Quyết định:** Rework — lý do một dòng: QC vòng 1 có 5/8 ảnh lỗi (62.5%, vượt ngưỡng 2%), lỗi lặp ở ảnh dày (box lệch + bỏ sót); đã sửa đủ 5 lỗi trong `qc_fixed.json` nhưng chưa QC lại bản đã sửa nên chưa Release.
