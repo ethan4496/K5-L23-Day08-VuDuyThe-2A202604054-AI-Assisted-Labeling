@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,15,"gán tay 4 ảnh gold (001 012 020 036); can_review: 0 box"
+batch_review,24,40,"duyệt 24 ảnh batch; can_review: 14 box / 10 ảnh: img_003 #16 #17 three_wheeler; img_005 #40 #42 motorbike #41 person; img_006 #71 person; img_013 #123 truck; img_014 #140 person; img_022 #260 motorbike; img_024 #279 bus; img_027 #362 motorbike; img_035 #488 #489 motorbike #516 person"
