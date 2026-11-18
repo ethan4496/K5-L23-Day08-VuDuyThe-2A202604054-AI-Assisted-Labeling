@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: ethan4496
 - Repo bài nộp (URL): https://github.com/ethan4496/K5-L23-Day08-VuDuyThe-2A202604054-AI-Assisted-Labeling
-- Commit chốt bài (hash): 
+- Commit chốt bài (hash): 5e402c68d492f513890248fbc83c5aa8970c9de1
 - Máy: macOS (MacBook Air), GPU MPS (Apple Silicon)
 - CVAT (Docker): 2.82.1
 
